@@ -19,6 +19,12 @@ This project analyzes Kerala’s daily rainfall (2009–2024) to identify trends
 - Monsoon season dominates rainfall; inter-annual variability is high.  
 - Several years show high percentage of excess rainfall days (>20%), indicating extreme event risk.  
 - Strong link between mean anomaly and frequency of excess rainfall days.
+- <img width="974" height="582" alt="KR2" src="https://github.com/user-attachments/assets/38af81fd-d9f1-4684-b310-c885b3f6c2ce" />
+<img width="1066" height="567" alt="KR3" src="https://github.com/user-attachments/assets/d732c0f3-d272-4615-9b8d-5f6f20eeaa33" />
+<img width="1310" height="548" alt="KR1" src="https://github.com/user-attachments/assets/d401b470-78d6-4280-8198-b7293e032cf4" />
+
+
+
 
 ## How to Reproduce
 1. Mount Google Drive and download data.  
